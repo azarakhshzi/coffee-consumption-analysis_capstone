@@ -210,3 +210,4 @@ data/*.csv
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+data/Data_NHANES/*.xpt
