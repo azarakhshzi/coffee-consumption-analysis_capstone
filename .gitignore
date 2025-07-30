@@ -204,10 +204,13 @@ cython_debug/
 
 # 
 data/Data_NHANES/*.xpt
+data/nhanes_raw/*.xpt
 data/*.csv
+materials/*.docx
 
 # Marimo
 marimo/_static/
 marimo/_lsp/
 __marimo__/
 data/Data_NHANES/*.xpt
+data/nhanes_raw/
