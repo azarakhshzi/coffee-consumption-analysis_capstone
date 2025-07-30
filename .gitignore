@@ -205,6 +205,7 @@ cython_debug/
 # 
 data/Data_NHANES/*.xpt
 data/*.csv
+materials/*.docx
 
 # Marimo
 marimo/_static/
