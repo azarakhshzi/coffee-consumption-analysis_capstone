@@ -204,6 +204,7 @@ cython_debug/
 
 # 
 data/Data_NHANES/*.xpt
+data/nhanes_raw/*.xpt
 data/*.csv
 materials/*.docx
 
